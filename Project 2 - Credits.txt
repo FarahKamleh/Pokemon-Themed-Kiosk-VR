@@ -4,4 +4,6 @@ Pokemon Center RSE: https://downloads.khinsider.com/game-soundtracks/album/pokem
 
 Models:
 
-Escalator: https://sketchfab.com/3d-models/esclator-fb5a4343e7d54a7ca8cd498797c2c69b#download
+Escalator: https://sketchfab.com/3d-models/esclator-fb5a4343e7d54a7ca8cd498797c2c69b
+Master's Cap: https://sketchfab.com/3d-models/pokemon-masters-cap-892e724659c44d6c8771252523075b54
+Badges: https://sketchfab.com/3d-models/pokemon-badges-5f4b103a05324943b2befd4b663dbaa0
