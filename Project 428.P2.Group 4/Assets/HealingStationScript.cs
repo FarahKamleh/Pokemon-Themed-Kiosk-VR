@@ -17,7 +17,8 @@ public class HealingStationScript : MonoBehaviour
     void OnCollisionEnter(Collision collision) {
         foreach (ContactPoint contact in collision.contacts)
         {
-            if (HealingSpot.name == contact.thisCollider.name && (Eve.name == contact.otherCollider.name || Evoled_Eve.name == contact.otherCollider.name)) {
+            if (HealingSpot.name == contact.thisCollider.name && (Eve.name == contact.otherCollider.name || Evoled_Eve.name == contact.otherCollider.name)
+                && !Particle_1.isPlaying) {
                 print("Healing Station Triggered");
                 swap();
                 Eve.transform.Rotate(0.0f, 0.0f, 0.0f, Space.Self);
@@ -34,6 +35,6 @@ public class HealingStationScript : MonoBehaviour
     }
     IEnumerator wait()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(2);
     }
 }
