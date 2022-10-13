@@ -9,7 +9,7 @@ Models:
 Escalator: https://sketchfab.com/3d-models/esclator-fb5a4343e7d54a7ca8cd498797c2c69b
 Master's Cap: https://sketchfab.com/3d-models/pokemon-masters-cap-892e724659c44d6c8771252523075b54
 Badges: https://sketchfab.com/3d-models/pokemon-badges-5f4b103a05324943b2befd4b663dbaa0
-Mew: https://sketchfab.com/3d-models/pokemon-151-mew-7f37f239817f41a2ad21b5f77cd0ff65
+Mew: https://sketchfab.com/3d-models/mew-flying-5c3814b08f48493396f298d48629d4dc
 Potted Plant: https://sketchfab.com/3d-models/potted-plant-83986836419445edb3e507b9eb0c786b
 Squirtle: https://sketchfab.com/3d-models/squirtle-df11cb9c684e4a5fad6eec86d590774d
 Minccino: https://sketchfab.com/3d-models/minccino-dc603c3c630e4e919fa07bbebc633043#download
@@ -19,3 +19,8 @@ Mudkip: https://sketchfab.com/3d-models/258-mudkip-43fc7ab80a0a4f19894b119d4cb2e
 Ultra Ball: https://sketchfab.com/3d-models/ultra-ball-pokemon-6f2a35f49dd54af18e774c4fdf5c0f84
 Pikachu: https://sketchfab.com/3d-models/pikachu-273766237c614ab1bbaf094c9fc72a3e
 Curry: https://sketchfab.com/3d-models/green-curry-thai-121310a3fb834e0791a35c95d5b5ec30
+Mimikyu: https://sketchfab.com/3d-models/mimikyu-ad2aaa7bb372441984f40df49854b3eb
+Ice Cream (Casteliacone): https://sketchfab.com/3d-models/ice-cream-cone-5d97c7ec9ac14e3ba8fe03644460fc0e
+Moomoo Milk: https://sketchfab.com/3d-models/milk-7212d41012594906a72d3b5adc260d0c
+Berry Juice (Coconut Drink): https://sketchfab.com/3d-models/coconut-drink-05a7d1d72e5e4a5ebfe7705b8166d362
+Lemonade: https://sketchfab.com/3d-models/homemade-lemonade-85c0c24608ca44c9a77a7210518bb25d
