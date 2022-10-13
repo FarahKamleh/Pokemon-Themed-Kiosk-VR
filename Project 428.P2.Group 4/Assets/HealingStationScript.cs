@@ -11,6 +11,7 @@ public class HealingStationScript : MonoBehaviour
     void Start()
     {
         Particle_1.Stop();
+        GetComponent<Light>().enabled = false;
     }
 
     // Update is called once per frame
@@ -24,7 +25,6 @@ public class HealingStationScript : MonoBehaviour
                 Eve.transform.Rotate(0.0f, 0.0f, 0.0f, Space.Self);
                 Evoled_Eve.transform.Rotate(0.0f, 0.0f, 0.0f, Space.Self);
                 Particle_1.Play();
-                StartCoroutine(wait());
             }
         }
     }
@@ -32,9 +32,5 @@ public class HealingStationScript : MonoBehaviour
         var temp_pos = Eve.transform.position;
         Eve.transform.position = Evoled_Eve.transform.position;
         Evoled_Eve.transform.position = temp_pos;
-    }
-    IEnumerator wait()
-    {
-        yield return new WaitForSeconds(2);
     }
 }
