@@ -3,6 +3,10 @@ Audio:
 Pokemon Center RSE: https://downloads.khinsider.com/game-soundtracks/album/pokemon-ruby-sapphire-music-super-complete/1-13%2520Pok%25C3%25A9mon%2520Center.mp3
 Pikachu: https://mobcup.net/ringtone/simple-notification-sound-emj223zn
 Squirtle: https://mobcup.net/ringtone/squirtle-nrkctw8a
+Eevee: https://mobcup.net/ringtone/eevee-8didua9t
+Espeon https://mobcup.net/ringtone/espeon-ajv63ils
+Jigglypuff: https://mobcup.net/ringtone/jigglypuff-8ouuze6t
+Fridge: https://quicksounds.com/library/sounds/refrigerator
 
 Models:
 
@@ -29,3 +33,8 @@ OranBerry: https://sketchfab.com/3d-models/oran-berryzip-5f8TCojZ7To8mT0EGgedy4a
 Pecha Berry: https://sketchfab.com/3d-models/pechaberryzip-6qeM3YAFAEA0btMLveFHAGH7ivQ
 JigglyPuff: https://sketchfab.com/3d-models/pokemon-jigglypuff-846a4936fa3f45cf840d25cbd7382e85S
 Eevee: https://sketchfab.com/3d-models/133-eevee-6b379c7d5e1d445fbdcfba0ef50594eb
+Map: https://sketchfab.com/3d-models/world-map-static-0eedf0e3ebfe4bec9ea6e86b92068024
+Espeon: https://sketchfab.com/3d-models/espeon-b12f30cf97de4ac5b312312ae1c31b73
+Dispenser: https://sketchfab.com/3d-models/gachapon-machine-ba7dd992be614b3185d24177dde6a127#download
+Bread (Big Malasada): https://sketchfab.com/3d-models/bread-699345e2e6af4dbdbb21b333ea9c999f
+Healer: https://sketchfab.com/3d-models/pokemon-healer-7e105d0bd978459d9150260f29745dbd
