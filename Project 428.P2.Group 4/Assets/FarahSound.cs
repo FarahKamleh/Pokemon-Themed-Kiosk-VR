@@ -16,7 +16,7 @@ public class FarahSound : MonoBehaviour
     }
 
     // if collision occurs
-    void OnTriggerEvent(Collider collision)
+    void OnTriggerEnter(Collider collision)
     {
         // when head is touched, play sound
         Vine.Play();
