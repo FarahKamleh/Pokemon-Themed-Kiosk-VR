@@ -11,7 +11,6 @@ public class HealingStationScript : MonoBehaviour
     void Start()
     {
         Particle_1.Stop();
-        GetComponent<Light>().enabled = false;
     }
 
     // Update is called once per frame
